@@ -1,6 +1,6 @@
 # Contabo-terraform.state-Sample-file
 Contabo terraform.state Sample file
-
+<pre>
 {
   "version": 4,
   "terraform_version": "1.9.1",
@@ -70,4 +70,4 @@ Contabo terraform.state Sample file
   ],
   "check_results": null
 }
-
+</pre>
